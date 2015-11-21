@@ -11,3 +11,5 @@ MUI.Libs.MenuDivider = require('material-ui/lib/menus/menu-divider');
 
 MUI.Libs.SvgIcons = require('material-ui/lib/svg-icons');
 
+MUI.Libs.SwipeableViews = require('react-swipeable-views');
+
